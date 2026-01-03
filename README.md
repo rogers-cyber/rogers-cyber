@@ -23,7 +23,7 @@
 - ⚙️ Automation & Scripting  
 - 🔁 APIs & Web Scraping  
 - 📊 Data Processing  
-- 🧩 CLI Tools  
+- 🧩 GUI & CLI Tools  
 - 🤖 AI-assisted Development  
 
 ---

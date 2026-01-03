@@ -38,24 +38,6 @@ Small, focused Python utilities designed to solve specific problems fast.
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rogers-cyber&show_icons=true&theme=highcontrast&cache_seconds=1800&v=1" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogers-cyber&layout=compact&cache_seconds=1800&v=1" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/rogers-cyber/rogers-cyber/output/github-snake.svg" />
-
----
-
 ### 📫 Connect
 
 - GitHub: https://github.com/rogers-cyber  

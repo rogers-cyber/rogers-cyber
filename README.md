@@ -30,11 +30,15 @@
 
 ### 📦 Featured Work
 
-🚀 **200+ Python Projects**  
+#### 🚀 Python Tiny Tools
+Small Python utilities that solve real problems fast:  
+https://github.com/rogers-cyber/python-tiny-tools  
+
+#### 📚 200+ Python Projects
 A curated collection covering beginner → advanced real-world Python projects.
 
-🛠️ **Tiny Tools**  
-Small, focused Python utilities designed to solve specific problems fast.
+#### 🛠️ Tiny Tools
+Focused Python utilities designed to automate repetitive tasks or simplify workflows.
 
 ---
 

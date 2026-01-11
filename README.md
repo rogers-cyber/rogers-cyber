@@ -43,6 +43,7 @@ Focused Python utilities designed to automate repetitive tasks or simplify workf
 ---
 
 ## 🤝 Sponsor Access (Premium Projects)
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor%20on%20GitHub-$25/month-brown?style=for-the-badge&logo=github)](https://github.com/sponsors/rogers-cyber)
 
 Support ongoing development and unlock **private & premium repositories**.
 

@@ -46,13 +46,11 @@ Focused Python utilities designed to automate repetitive tasks or simplify workf
 
 > All listed tools are publicly visible. Sponsors unlock **private PRO versions, early releases, and exclusive features**.
 
-Support ongoing development and unlock **private PRO repositories and early-access tools**.
+Support ongoing development and unlock **private PRO repositories, early-access tools, and exclusive features**.
 
 ![Sponsor](https://img.shields.io/badge/Sponsor-$25/month-brightgreen)
-![Private Access](https://img.shields.io/badge/Private%20Repos-Access-blue)
 ![Early Access](https://img.shields.io/badge/Early%20Access-Yes-orange)
-![Development](https://img.shields.io/badge/Development-Active-red)
-
+![Private Access](https://img.shields.io/badge/Private%20Repos-Access-blue)
 ![Development](https://img.shields.io/badge/Development-Active-red)
 
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor%20on%20GitHub-$25/month-brown?style=for-the-badge&logo=github)](https://github.com/sponsors/rogers-cyber)

@@ -89,10 +89,11 @@ We continuously develop and expand our projects. Projects move through clear lif
 
 ## Development Philosophy
 
+No abandoned projects • No bait-and-switch • Long-term maintenance
+
 Our projects are **actively maintained and continuously improved**.  
 Sponsors help shape features, prioritize roadmap items, and receive updates **before public release**.
 
-No abandoned projects • No bait-and-switch • Long-term maintenance
 ---
 
 ### ⭐ Become a Sponsor

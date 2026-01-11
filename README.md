@@ -64,17 +64,17 @@ Support ongoing development and unlock **private & premium repositories**.
 We continuously develop and expand our projects. Projects move through clear lifecycle stages:
 **Initiation → Execution → Production (Go Live)**.
 
-| Project | Description | Link | Status |
-|--------|-------------|------|--------|
-| Relax Video Builder PRO | Create long-duration relaxing videos from images and MP3 with presets and overlays. | [GitHub](https://github.com/rogers-cyber/relax-video-builder-pro) | ![Execution](https://img.shields.io/badge/Status-Execution-orange) |
-| PBR Texture Generator | Convert images into full PBR texture sets with normal, height, roughness, metallic, and AO maps. GPU-accelerated and customizable. | [GitHub](https://github.com/rogers-cyber/pbr-texture-generator) | ![Production](https://img.shields.io/badge/Status-Production-brightgreen) |
-| VID2IMG Pro | Video to Image Extraction & Anonymization Tool with face privacy, 360° & photogrammetry support. | [GitHub](https://github.com/rogers-cyber/vid2img) | ![Production](https://img.shields.io/badge/Status-Production-brightgreen) |
-| KeySage | Fast, offline keyword suggestion tool using Google Autocomplete, clustering, and advanced export options. | [GitHub](https://github.com/rogers-cyber/keysage) | ![Production](https://img.shields.io/badge/Status-Production-brightgreen) |
-| FileCryptor | Secure GUI tool for encrypting/decrypting files and folders with password-based encryption. | [GitHub](https://github.com/rogers-cyber/filecryptor) | ![Production](https://img.shields.io/badge/Status-Production-brightgreen) |
-| PDF Text Extractor | Lightweight Python GUI to extract text from PDFs, built with Tkinter and ttkbootstrap. | [GitHub](https://github.com/rogers-cyber/PDF-Text-Extractor) | ![Production](https://img.shields.io/badge/Status-Production-brightgreen) |
-| Clipboard Manager GUI | Full-featured clipboard manager with history, search, export/import, and global hotkeys. | [GitHub](https://github.com/rogers-cyber/Clipboard-Manager-GUI-Full-Python-Source) | ![Production](https://img.shields.io/badge/Status-Production-brightgreen) |
-| Enterprise Bulk Rename GUI | Enterprise-grade bulk file renaming tool with preview, undo, and advanced patterns. | [GitHub](https://github.com/rogers-cyber/Enterprise-Bulk-Rename-GUI-Python) | ![Production](https://img.shields.io/badge/Status-Production-brightgreen) |
-| SnapConvert | Batch image conversion tool with drag-and-drop support, resizing, quality control, and history tracking. | [GitHub](https://github.com/rogers-cyber/SnapConvert) | ![Production](https://img.shields.io/badge/Status-Production-brightgreen) |
+| Project | Description | Status |
+|--------|-------------|--------|
+| [Relax Video Builder PRO](https://github.com/rogers-cyber/relax-video-builder-pro) | Long-duration relaxing videos from images & MP3 | ![Execution](https://img.shields.io/badge/Execution-Active-orange) |
+| [PBR Texture Generator](https://github.com/rogers-cyber/pbr-texture-generator) | Image → full PBR texture sets | ![Production](https://img.shields.io/badge/Production-Stable-brightgreen) |
+| [VID2IMG Pro](https://github.com/rogers-cyber/vid2img) | Video-to-image extraction & anonymization | ![Production](https://img.shields.io/badge/Production-Stable-brightgreen) |
+| [KeySage](https://github.com/rogers-cyber/keysage) | Offline keyword research & clustering | ![Production](https://img.shields.io/badge/Production-Stable-brightgreen) |
+| [FileCryptor](https://github.com/rogers-cyber/filecryptor) | Secure file & folder encryption GUI | ![Production](https://img.shields.io/badge/Production-Stable-brightgreen) |
+| [PDF Text Extractor](https://github.com/rogers-cyber/PDF-Text-Extractor) | Extract text from PDFs (GUI) | ![Production](https://img.shields.io/badge/Production-Stable-brightgreen) |
+| [Clipboard Manager GUI](https://github.com/rogers-cyber/Clipboard-Manager-GUI-Full-Python-Source) | Advanced clipboard productivity tool | ![Production](https://img.shields.io/badge/Production-Stable-brightgreen) |
+| [Enterprise Bulk Rename GUI](https://github.com/rogers-cyber/Enterprise-Bulk-Rename-GUI-Python) | Enterprise-grade bulk renaming | ![Production](https://img.shields.io/badge/Production-Stable-brightgreen) |
+| [SnapConvert](https://github.com/rogers-cyber/SnapConvert) | Batch image conversion tool | ![Production](https://img.shields.io/badge/Production-Stable-brightgreen) |
 
 ---
 

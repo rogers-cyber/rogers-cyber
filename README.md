@@ -80,7 +80,8 @@ We continuously develop and expand our projects. Projects move through clear lif
 
 ## Development Philosophy
 
-Our projects are **never static**. We constantly add new features, refine existing tools, and release new projects. Sponsors get **early access** to everything we develop before it becomes publicly available.  
+Our projects are **actively maintained and continuously improved**.  
+Sponsors help shape features, prioritize roadmap items, and receive updates **before public release**.
 
 ---
 

@@ -65,8 +65,7 @@ Support ongoing development and unlock **private & premium repositories**.
 
 ### 📊 Premium Project Lifecycle
 
-We continuously develop and expand our projects. Projects move through clear lifecycle stages:
-**Initiation → Execution → Production (Go Live)**.
+We continuously develop and expand our projects. Projects move through clear lifecycle stages: **Initiation → Execution → Production (Go Live)**.
 
 **Status Legend**
 - 🟠 Execution – Active development & feature expansion

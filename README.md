@@ -73,6 +73,7 @@ We continuously develop and expand our projects. Projects move through clear lif
 
 | Project | Description | Status |
 |--------|-------------|--------|
+| [WatermarkX](https://github.com/rogers-cyber/WatermarkX) | Fast, precise, and professional watermarking for your images and logos | ![Execution](https://img.shields.io/badge/Execution-Active-orange) |
 | [Relax Video Builder PRO](https://github.com/rogers-cyber/relax-video-builder-pro) | Long-duration relaxing videos from images & MP3 | ![Execution](https://img.shields.io/badge/Execution-Active-orange) |
 | [PBR Texture Generator](https://github.com/rogers-cyber/pbr-texture-generator) | Image → full PBR texture sets | ![Production](https://img.shields.io/badge/Production-Stable-brightgreen) |
 | [VID2IMG Pro](https://github.com/rogers-cyber/vid2img) | Video-to-image extraction & anonymization | ![Production](https://img.shields.io/badge/Production-Stable-brightgreen) |

@@ -44,6 +44,7 @@ Focused Python utilities designed to automate repetitive tasks or simplify workf
 
 ## 🤝 Sponsor Access (Premium Projects)
 
+> All listed tools are publicly visible. Sponsors unlock **private PRO versions, early releases, and exclusive features**.
 Support ongoing development and unlock **private & premium repositories**.
 
 ![Sponsor](https://img.shields.io/badge/Sponsor-$25/month-brightgreen)

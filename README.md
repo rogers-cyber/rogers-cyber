@@ -68,6 +68,10 @@ Support ongoing development and unlock **private & premium repositories**.
 We continuously develop and expand our projects. Projects move through clear lifecycle stages:
 **Initiation → Execution → Production (Go Live)**.
 
+**Status Legend**
+- 🟠 Execution – Active development & feature expansion
+- 🟢 Production – Stable, ready for real-world use
+
 | Project | Description | Status |
 |--------|-------------|--------|
 | [Relax Video Builder PRO](https://github.com/rogers-cyber/relax-video-builder-pro) | Long-duration relaxing videos from images & MP3 | ![Execution](https://img.shields.io/badge/Execution-Active-orange) |

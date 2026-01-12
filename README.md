@@ -73,7 +73,7 @@ We continuously develop and expand our projects. Projects move through clear lif
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| [WatermarkX](https://github.com/rogers-cyber/filescope-pro) | Ultra-fast professional file & content search | ![Execution](https://img.shields.io/badge/Execution-Active-orange) |
+| [FileScope v1.3.2 PRO](https://github.com/rogers-cyber/filescope-pro) | Ultra-fast professional file & content search | ![Execution](https://img.shields.io/badge/Execution-Active-orange) |
 | [WatermarkX](https://github.com/rogers-cyber/WatermarkX) | Fast, precise, and professional watermarking for your images and logos | ![Execution](https://img.shields.io/badge/Execution-Active-orange) |
 | [Relax Video Builder PRO](https://github.com/rogers-cyber/relax-video-builder-pro) | Long-duration relaxing videos from images & MP3 | ![Production](https://img.shields.io/badge/Production-Stable-brightgreen) |
 | [PBR Texture Generator](https://github.com/rogers-cyber/pbr-texture-generator) | Image → full PBR texture sets | ![Production](https://img.shields.io/badge/Production-Stable-brightgreen) |

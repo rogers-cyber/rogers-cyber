@@ -74,8 +74,8 @@ We continuously develop and expand our projects. Projects move through clear lif
 | Project | Description | Status | Status |
 |--------|-------------|--------|--------|
 | [FileScope v1.3.2 PRO](https://github.com/rogers-cyber/filescope-pro) | Ultra-fast professional file & content search | ![Execution](https://img.shields.io/badge/Execution-Active-orange) | Stiil Process on Gumroad |
-| [WatermarkX](https://github.com/rogers-cyber/WatermarkX) | Fast, precise, and professional watermarking for your images and logos | ![Execution](https://img.shields.io/badge/Execution-Active-orange) | [Buy now on Gumroad](https://gum.new/gum/cmka62o2l001w04l42jmy3i9y) |
-| [Relax Video Builder PRO](https://github.com/rogers-cyber/relax-video-builder-pro) | Long-duration relaxing videos from images & MP3 | ![Production](https://img.shields.io/badge/Production-Stable-brightgreen) | Still Process on Gumroad |
+| [WatermarkX](https://github.com/rogers-cyber/WatermarkX) | Fast, precise, and professional watermarking for your images and logos | ![Production](https://img.shields.io/badge/Production-Stable-brightgreen) | [Buy now on Gumroad](https://gum.new/gum/cmka62o2l001w04l42jmy3i9y) |
+| [Relax Video Builder PRO](https://github.com/rogers-cyber/relax-video-builder-pro) | Long-duration relaxing videos from images & MP3 | ![Execution](https://img.shields.io/badge/Execution-Active-orange) | Still Process on Gumroad |
 | [PBR Texture Generator](https://github.com/rogers-cyber/pbr-texture-generator) | Image → full PBR texture sets | ![Production](https://img.shields.io/badge/Production-Stable-brightgreen) | [Buy now on Gumroad](https://gum.new/gum/cmk79c11p001u04jvfyqz3jbu) |
 | [VID2IMG Pro](https://github.com/rogers-cyber/vid2img) | Video-to-image extraction & anonymization | ![Production](https://img.shields.io/badge/Production-Stable-brightgreen) | [Buy now on Gumroad](https://gum.new/gum/cmk5ut3j8000i04l1fdp098nh) |
 | [KeySage](https://github.com/rogers-cyber/keysage) | Offline keyword research & clustering | ![Production](https://img.shields.io/badge/Production-Stable-brightgreen) | [Buy now on Gumroad](https://gum.new/gum/cmk5ca5og002f04lbfga113vy) |

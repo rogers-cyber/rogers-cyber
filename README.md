@@ -80,15 +80,15 @@ We continuously develop and expand our projects. Projects move through clear lif
 |--------|-------------|--------|--------|
 | [Relax Video Builder PRO](https://github.com/rogers-cyber/relax-video-builder-pro) | Long-duration relaxing videos from images & MP3 | 🟠 Execution | — |
 | [FileScope v1.3.2 PRO](https://github.com/rogers-cyber/filescope-pro) | Ultra-fast professional file & content search | 🟠 Execution | — |
-| [WatermarkX](https://github.com/rogers-cyber/WatermarkX) | Fast, precise, professional watermarking for images & logos | 🟢 Production | ![Buy Now](https://img.shields.io/badge/Buy_Now-Gumroad-blue?style=for-the-badge&logo=gumroad) [Link](https://gum.new/gum/cmka62o2l001w04l42jmy3i9y) |
-| [PBR Texture Generator](https://github.com/rogers-cyber/pbr-texture-generator) | Image → full PBR texture sets | 🟢 Production | ![Buy Now](https://img.shields.io/badge/Buy_Now-Gumroad-blue?style=for-the-badge&logo=gumroad) [Link](https://gum.new/gum/cmk79c11p001u04jvfyqz3jbu) |
-| [VID2IMG Pro](https://github.com/rogers-cyber/vid2img) | Video-to-image extraction & anonymization | 🟢 Production | ![Buy Now](https://img.shields.io/badge/Buy_Now-Gumroad-blue?style=for-the-badge&logo=gumroad) [Link](https://gum.new/gum/cmk5ut3j8000i04l1fdp098nh) |
-| [KeySage](https://github.com/rogers-cyber/keysage) | Offline keyword research & clustering | 🟢 Production | ![Buy Now](https://img.shields.io/badge/Buy_Now-Gumroad-blue?style=for-the-badge&logo=gumroad) [Link](https://gum.new/gum/cmk5ca5og002f04lbfga113vy) |
-| [FileCryptor](https://github.com/rogers-cyber/filecryptor) | Secure file & folder encryption GUI | 🟢 Production | ![Buy Now](https://img.shields.io/badge/Buy_Now-Gumroad-blue?style=for-the-badge&logo=gumroad) [Link](https://gum.new/gum/cmkawsv9x000004jx6oui9tjg) |
-| [PDF Text Extractor](https://github.com/rogers-cyber/PDF-Text-Extractor) | Extract text from PDFs (GUI) | 🟢 Production | ![Buy Now](https://img.shields.io/badge/Buy_Now-Gumroad-blue?style=for-the-badge&logo=gumroad) [Link](https://gum.new/gum/cmk3n0dst002504ky9ulpdf2u) |
-| [Clipboard Manager GUI](https://github.com/rogers-cyber/Clipboard-Manager-GUI-Full-Python-Source) | Advanced clipboard productivity tool | 🟢 Production | ![Buy Now](https://img.shields.io/badge/Buy_Now-Gumroad-blue?style=for-the-badge&logo=gumroad) [Link](https://gum.new/gum/cmjzhtctz000404l8a0v5fyvo) |
-| [Enterprise Bulk Rename GUI](https://github.com/rogers-cyber/Enterprise-Bulk-Rename-GUI-Python) | Enterprise-grade bulk renaming | 🟢 Production | ![Buy Now](https://img.shields.io/badge/Buy_Now-Gumroad-blue?style=for-the-badge&logo=gumroad) [Link](https://gum.new/gum/cmjzyahd9001n04l4fmdwbz24) |
-| [SnapConvert](https://github.com/rogers-cyber/SnapConvert) | Batch image conversion tool | 🟢 Production | ![Buy Now](https://img.shields.io/badge/Buy_Now-Gumroad-blue?style=for-the-badge&logo=gumroad) [Link](https://gum.new/gum/cmjz96c0w001304jvdjdoaeuc) |
+| [WatermarkX](https://github.com/rogers-cyber/WatermarkX) | Fast, precise, professional watermarking for images & logos | 🟢 Production | [Buy Now](https://gum.new/gum/cmka62o2l001w04l42jmy3i9y) |
+| [PBR Texture Generator](https://github.com/rogers-cyber/pbr-texture-generator) | Image → full PBR texture sets | 🟢 Production | [Buy Now](https://gum.new/gum/cmk79c11p001u04jvfyqz3jbu) |
+| [VID2IMG Pro](https://github.com/rogers-cyber/vid2img) | Video-to-image extraction & anonymization | 🟢 Production | [Buy Now](https://gum.new/gum/cmk5ut3j8000i04l1fdp098nh) |
+| [KeySage](https://github.com/rogers-cyber/keysage) | Offline keyword research & clustering | 🟢 Production | [Buy Now](https://gum.new/gum/cmk5ca5og002f04lbfga113vy) |
+| [FileCryptor](https://github.com/rogers-cyber/filecryptor) | Secure file & folder encryption GUI | 🟢 Production | [Buy Now](https://gum.new/gum/cmkawsv9x000004jx6oui9tjg) |
+| [PDF Text Extractor](https://github.com/rogers-cyber/PDF-Text-Extractor) | Extract text from PDFs (GUI) | 🟢 Production | [Buy Now](https://gum.new/gum/cmk3n0dst002504ky9ulpdf2u) |
+| [Clipboard Manager GUI](https://github.com/rogers-cyber/Clipboard-Manager-GUI-Full-Python-Source) | Advanced clipboard productivity tool | 🟢 Production | [Buy Now](https://gum.new/gum/cmjzhtctz000404l8a0v5fyvo) |
+| [Enterprise Bulk Rename GUI](https://github.com/rogers-cyber/Enterprise-Bulk-Rename-GUI-Python) | Enterprise-grade bulk renaming | 🟢 Production | [Buy Now](https://gum.new/gum/cmjzyahd9001n04l4fmdwbz24) |
+| [SnapConvert](https://github.com/rogers-cyber/SnapConvert) | Batch image conversion tool | 🟢 Production | [Buy Now](https://gum.new/gum/cmjz96c0w001304jvdjdoaeuc) |
 
 ---
 

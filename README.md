@@ -79,7 +79,7 @@ We continuously develop and expand our projects. Projects move through clear lif
 | Project | Description | Status | Gumroad |
 |--------|-------------|--------|--------|
 | [Relax Video Builder PRO](https://github.com/rogers-cyber/relax-video-builder-pro) | Long-duration relaxing videos from images & MP3 | 🟠 Execution | — |
-| [FileScope v1.3.2 PRO](https://github.com/rogers-cyber/filescope-pro) | Ultra-fast professional file & content search | 🟠 Execution | — |
+| [FileScope v1.3.2 PRO](https://github.com/rogers-cyber/filescope-pro) | Ultra-fast professional file & content search | 🟢 Production | [Buy Now](https://gum.new/gum/cmkbaon6z000004jq9gt46uk8) |
 | [WatermarkX](https://github.com/rogers-cyber/WatermarkX) | Fast, precise, professional watermarking for images & logos | 🟢 Production | [Buy Now](https://gum.new/gum/cmka62o2l001w04l42jmy3i9y) |
 | [PBR Texture Generator](https://github.com/rogers-cyber/pbr-texture-generator) | Image → full PBR texture sets | 🟢 Production | [Buy Now](https://gum.new/gum/cmk79c11p001u04jvfyqz3jbu) |
 | [VID2IMG Pro](https://github.com/rogers-cyber/vid2img) | Video-to-image extraction & anonymization | 🟢 Production | [Buy Now](https://gum.new/gum/cmk5ut3j8000i04l1fdp098nh) |

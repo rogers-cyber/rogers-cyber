@@ -79,7 +79,7 @@ We continuously develop and expand our projects. Projects move through clear lif
 | Project | Description | Status | Gumroad |
 |--------|-------------|--------|--------|
 | [Relax Video Builder PRO](https://github.com/rogers-cyber/relax-video-builder-pro) | Long-duration relaxing videos from images & MP3 | 🟠 Execution | — |
-| [LinkVault PRO](https://github.com/rogers-cyber/LinkVault-PRO) | Professional Link Extraction & Management Tool | 🟠 Execution | — |
+| [LinkVault PRO](https://github.com/rogers-cyber/LinkVault-PRO) | Professional Link Extraction & Management Tool | 🟢 Production | [Buy Now](https://gum.new/gum/cmkf1hjun000404l2fqerdq39) |
 | [PDFSnap v1.0.0](https://github.com/rogers-cyber/PDFSnap) | Converting PDF documents into high-quality PNG or JPG images | 🟢 Production | [Buy Now](https://gum.new/gum/cmkcvnxqi001204lgg4mc8f0f) |
 | [RiskScan PRO](https://github.com/rogers-cyber/RiskScan-PRO) | Professional File Risk Assessment & Threat Discovery | 🟢 Production | [Buy Now](https://gum.new/gum/cmkc8tiph000004lba8vgfnhs) |
 | [FileScope v1.3.2 PRO](https://github.com/rogers-cyber/filescope-pro) | Ultra-fast professional file & content search | 🟢 Production | [Buy Now](https://gum.new/gum/cmkbaon6z000004jq9gt46uk8) |

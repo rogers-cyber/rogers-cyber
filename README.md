@@ -79,7 +79,7 @@ We continuously develop and expand our projects. Projects move through clear lif
 | Project | Description | Status | Gumroad |
 |--------|-------------|--------|--------|
 | [Relax Video Builder PRO](https://github.com/rogers-cyber/relax-video-builder-pro) | Long-duration relaxing videos from images & MP3 | 🟠 Execution | — |
-| [LogSentinel v3.9](https://github.com/rogers-cyber/LogSentinel) | Enterprise Log File Analyzer & Error Intelligence | 🟠 Execution | — |
+| [LogSentinel v3.9](https://github.com/rogers-cyber/LogSentinel) | Enterprise Log File Analyzer & Error Intelligence | 🟠 Execution | [Buy Now](https://gum.new/gum/cmkiotta6000t04l75xh0e0i9) |
 | [MetaClean v2.0.0](https://github.com/rogers-cyber/MetaClean) | Professional Image Metadata & Privacy Cleaner | 🟢 Production | [Buy Now](https://gum.new/gum/cmki9hb0s000204l402y17n9c) |
 | [LinkVault PRO](https://github.com/rogers-cyber/LinkVault-PRO) | Professional Link Extraction & Management Tool | 🟢 Production | [Buy Now](https://gum.new/gum/cmkf1hjun000404l2fqerdq39) |
 | [PDFSnap v1.0.0](https://github.com/rogers-cyber/PDFSnap) | Converting PDF documents into high-quality PNG or JPG images | 🟢 Production | [Buy Now](https://gum.new/gum/cmkcvnxqi001204lgg4mc8f0f) |

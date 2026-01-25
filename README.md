@@ -79,6 +79,7 @@ We continuously develop and expand our projects. Projects move through clear lif
 | Project | Description | Status | Gumroad |
 |--------|-------------|--------|--------|
 | [Relax Video Builder PRO](https://github.com/rogers-cyber/relax-video-builder-pro) | Long-duration relaxing videos from images & MP3 | 🟠 Execution | — |
+| [AutoBackupPro v1.3.0](https://github.com/rogers-cyber/AutoBackupPro) | Offline Multi-Source Backup & Compression Tool | 🟠 Execution | — |
 | [ZipMate v1.2.0](https://github.com/rogers-cyber/ZipMate) | Fast & Reliable File Compression Utility | 🟢 Production | [Buy Now](https://gum.new/gum/cmktmxga7001k04la2w4y0c4c) |
 | [JPGify v1.2.0](https://github.com/rogers-cyber/JPGify) | Fast & Stress-Free Image to JPG Converter | 🟢 Production | [Buy Now](https://gum.new/gum/cmksd0wad000l04k43709amov) |
 | [AutoDateInserter v1.2.0](https://github.com/rogers-cyber/AutoDateInserter) | Professional Batch File Timestamp Renamer | 🟢 Production | [Buy Now](https://gum.new/gum/cmkqn8mu7000204ieg6mpbgb7) |

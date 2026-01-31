@@ -81,7 +81,7 @@ We continuously develop and expand our projects. Projects move through clear lif
 | [Relax Video Builder PRO](https://github.com/rogers-cyber/relax-video-builder-pro) | Long-duration relaxing videos from images & MP3 | 🟠 Execution | — |
 | [AutoBackupPro v1.3.0](https://github.com/rogers-cyber/AutoBackupPro) | Offline Multi-Source Backup & Compression Tool | 🟢 Production | [Buy Now](https://gum.new/gum/cmku1kxsn001g04lgclt022xc) |
 | [ZipMate v1.2.0](https://github.com/rogers-cyber/ZipMate) | Fast & Reliable File Compression Utility | 🟢 Production | [Buy Now](https://gum.new/gum/cmktmxga7001k04la2w4y0c4c) |
-| [JPGify v1.2.0](https://github.com/rogers-cyber/JPGify) | Fast & Stress-Free Image to JPG Converter | 🟢 Production | [Buy Now](https://gum.new/gum/cmksd0wad000l04k43709amov) |
+| [JPGify v1.2.0](https://github.com/rogers-cyber/JPGify) | Fast & Stress-Free Image to JPG Converter | 🟢 Production | [Buy Now](https://gum.new/gum/cml1yv6ly000i04l8gcuo5xve) |
 | [AutoDateInserter v1.2.0](https://github.com/rogers-cyber/AutoDateInserter) | Professional Batch File Timestamp Renamer | 🟢 Production | [Buy Now](https://gum.new/gum/cmkqn8mu7000204ieg6mpbgb7) |
 | [LogSentinel v3.9](https://github.com/rogers-cyber/LogSentinel) | Enterprise Log File Analyzer & Error Intelligence | 🟢 Production | [Buy Now](https://gum.new/gum/cmkiotta6000t04l75xh0e0i9) |
 | [MetaClean v2.0.0](https://github.com/rogers-cyber/MetaClean) | Professional Image Metadata & Privacy Cleaner | 🟢 Production | [Buy Now](https://gum.new/gum/cmki9hb0s000204l402y17n9c) |

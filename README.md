@@ -78,7 +78,7 @@ We continuously develop and expand our projects. Projects move through clear lif
 
 | Project | Description | Status | Gumroad |
 |--------|-------------|--------|--------|
-| [Relax Video Builder PRO](https://github.com/rogers-cyber/relax-video-builder-pro) | Long-duration relaxing videos from images & MP3 | 🟠 Execution | — |
+| [File Search System PRO v1.0.2](https://github.com/rogers-cyber/FileSearchSystemPRO) | High-Performance Desktop File & Content Search Tool | 🟢 Production | [Buy Now](https://gum.new/gum/cmm07bx7y000604jm0fmp8jls) |
 | [PixelSqueeze PRO](https://github.com/rogers-cyber/PixelSqueeze-PRO) | Compress Images Without Quality Loss | 🟢 Production | [Buy Now](https://gum.new/gum/cmlmkb1yi001x04juad4r4t4q) |
 | [AutoBackupPro v1.3.0](https://github.com/rogers-cyber/AutoBackupPro) | Offline Multi-Source Backup & Compression Tool | 🟢 Production | [Buy Now](https://gum.new/gum/cmku1kxsn001g04lgclt022xc) |
 | [ZipMate v1.2.0](https://github.com/rogers-cyber/ZipMate) | Fast & Reliable File Compression Utility | 🟢 Production | [Buy Now](https://gum.new/gum/cmktmxga7001k04la2w4y0c4c) |

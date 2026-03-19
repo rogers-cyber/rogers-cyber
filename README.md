@@ -78,6 +78,7 @@ We continuously develop and expand our projects. Projects move through clear lif
 
 | Project | Description | Status | Gumroad |
 |--------|-------------|--------|--------|
+| [CSVtoExcel PRO](https://github.com/rogers-cyber/CSVtoExcelPRO) | Professional CSV → Excel Converter | 🟢 Production | [Buy Now](https://gum.new/gum/cmmxp3gh6000g04l8cxzjd0nq) |
 | [Screenshot PRO](https://github.com/rogers-cyber/ScreenshotPRO) | Professional Screen Capture & Recorder | 🟢 Production | [Buy Now](https://gum.new/gum/cmmn6op60001e04kyh7ue5487) |
 | [File Search System PRO v1.0.2](https://github.com/rogers-cyber/FileSearchSystemPRO) | High-Performance Desktop File & Content Search Tool | 🟢 Production | [Buy Now](https://gum.new/gum/cmm07bx7y000604jm0fmp8jls) |
 | [PixelSqueeze PRO](https://github.com/rogers-cyber/PixelSqueeze-PRO) | Compress Images Without Quality Loss | 🟢 Production | [Buy Now](https://gum.new/gum/cmlmkb1yi001x04juad4r4t4q) |
